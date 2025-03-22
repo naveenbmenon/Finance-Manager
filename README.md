@@ -25,35 +25,7 @@ The **Finance Manager** is a personal finance and portfolio management web app d
 
 ---
 
-## 🚀 Installation & Setup
-### 📌 Prerequisites
-- Node.js & npm installed
-- MySQL database setup
 
-### ▶️ Steps to Run
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/finance-manager.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd finance-manager
-   ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-5. **Set up the MySQL database** and configure the connection in `.env`.
-6. **Run the backend server:**
-   ```bash
-   npm start
-   ```
-
----
 
 ## 📅 Project Timeline
 - **Phase 1 (January - February 2025)**: UI/UX Design, Database Structuring, API Integration
